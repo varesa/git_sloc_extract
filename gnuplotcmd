@@ -1,0 +1,2 @@
+plot 	'lines.log' using 0:1 title 'Python' with l,	'lines.log' using 0:2 title "Templates" with l, 	'lines.log' using 0:3 title "CSS" with l,	'lines.log' using 0:4 title "JS" with l,	'lines.log' using 0:5 title "Total" with l
+pause -1
